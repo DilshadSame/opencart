@@ -1,0 +1,50 @@
+23:11:02.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:11:02.584 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse-713904063\testng-customsuite.xml
+
+23:11:02.599 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+23:11:02.700 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2b5cb9b2: 21 ms
+23:11:02.753 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3113a37: 51 ms
+23:11:02.765 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@36ac8a63: 10 ms
+23:11:02.777 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@22db8f4: 12 ms
+23:11:02.784 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4cc61eb1: 7 ms
+23:11:02.791 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5949eba8: 7 ms
+23:11:02.791 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6e0ff644: 0 ms
+23:11:43.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\master.xml
+
+23:19:35.521 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\master.xml"
+23:19:35.768 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\master.xml
+
+23:20:14.082 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\master.xml"
+23:20:14.315 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\master.xml
+
+12:19:48.052 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\master.xml"
+12:19:48.415 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\master.xml
+
+12:19:52.168 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:19:52.661 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+12:20:43.044 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\master.xml"
+12:21:26.485 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\master.xml"
+12:21:26.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\master.xml
+
+12:21:29.513 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:21:29.513 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:21:29.593 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:21:29.867 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+12:21:29.867 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:21:30.855 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+12:21:30.892 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+12:21:30.894 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+12:21:30.894 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+12:21:32.860 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:21:32.860 [TestNG-tests-1] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:21:32.917 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:21:33.103 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:21:33.119 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:21:33.592 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+12:21:33.710 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****

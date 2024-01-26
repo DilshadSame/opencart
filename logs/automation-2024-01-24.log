@@ -1,0 +1,56 @@
+15:45:01.485 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Enter valid email and pwd
+15:45:02.029 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on login button...
+15:45:02.064 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - login test passed
+15:45:02.067 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *** finished TC_002_LoginTest ****
+15:45:27.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\grouping.xml
+
+15:45:29.657 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Starting TC_001_AccountRegistrationTest ****
+15:45:29.920 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+15:45:30.195 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:45:30.195 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+15:45:35.125 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+15:45:35.169 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+15:45:35.169 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+15:45:35.172 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Ending TC_001_AccountRegistrationTest ****
+15:45:59.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\grouping.xml
+
+15:46:01.223 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Starting TC_001_AccountRegistrationTest ****
+15:46:01.304 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+15:46:01.562 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:46:01.562 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+15:46:06.361 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+15:46:06.401 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+15:46:06.401 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+15:46:06.404 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Ending TC_001_AccountRegistrationTest ****
+15:46:08.172 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *** starting TC_002_LoginTest ****
+15:46:08.236 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - click on myaccount link
+15:46:08.429 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - we clicked on login link
+15:46:08.431 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Enter valid email and pwd
+15:46:08.911 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on login button...
+15:46:09.002 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - login test passed
+15:46:09.002 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *** finished TC_002_LoginTest ****
+16:59:42.555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\grouping.xml
+
+16:59:45.188 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Starting TC_001_AccountRegistrationTest ****
+16:59:45.409 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+16:59:45.675 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:59:45.676 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+16:59:50.474 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+16:59:50.507 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+16:59:50.507 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+16:59:50.509 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Ending TC_001_AccountRegistrationTest ****
+16:59:52.231 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *** starting TC_002_LoginTest ****
+16:59:52.492 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - click on myaccount link
+16:59:52.693 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - we clicked on login link
+16:59:52.694 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Enter valid email and pwd
+16:59:53.164 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on login button...
+16:59:53.252 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - login test passed
+16:59:53.253 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *** finished TC_002_LoginTest ****
+17:03:10.631 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\grouping.xml
+
+17:03:12.989 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Starting TC_001_AccountRegistrationTest ****
+17:03:13.191 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link

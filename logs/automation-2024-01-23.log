@@ -1,0 +1,56 @@
+16:49:46.369 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@37e0292a: 22 ms
+16:49:46.398 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@288ca5f0: 18 ms
+16:49:46.411 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@14982a82: 13 ms
+16:49:46.424 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7899de11: 13 ms
+16:49:46.424 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@290d10ef: 0 ms
+17:06:20.810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\testng.xml
+
+17:06:58.190 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\testng.xml
+
+17:08:38.558 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\testng.xml
+
+17:08:42.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Starting TC_001_AccountRegistrationTest ****
+17:08:43.053 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+17:08:43.460 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:08:43.461 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+17:08:48.301 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+17:08:48.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+17:08:48.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+17:08:48.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Ending TC_001_AccountRegistrationTest ****
+17:09:38.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\testng.xml
+
+17:09:40.828 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Starting TC_001_AccountRegistrationTest ****
+17:09:41.034 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+17:09:41.336 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:09:41.336 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+17:09:46.216 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+17:09:46.274 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+17:09:46.274 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+17:09:46.283 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Ending TC_001_AccountRegistrationTest ****
+17:09:50.235 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Starting TC_001_AccountRegistrationTest ****
+17:09:50.298 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+17:09:50.875 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:09:50.876 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+17:09:55.994 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+17:09:56.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+17:09:56.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+17:09:56.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Ending TC_001_AccountRegistrationTest ****
+17:12:48.203 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\opencart\master.xml
+
+17:12:50.664 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Starting TC_001_AccountRegistrationTest ****
+17:12:51.138 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+17:12:51.510 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:12:51.511 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+17:12:52.032 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *****Starting TC_001_AccountRegistrationTest ****
+17:12:52.100 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+17:12:53.050 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:12:53.050 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+17:12:56.639 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+17:12:56.693 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+17:12:56.693 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+17:12:56.696 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Ending TC_001_AccountRegistrationTest ****
